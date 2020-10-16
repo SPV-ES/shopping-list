@@ -1,0 +1,17 @@
+.Articles{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    max-width: 200px;
+    margin-top: 10px;
+}
+.Article-Counter{
+    min-width: 35px;
+    display: inline;
+}
+.delete{
+    background-color: red;
+}
+.btnMinusPlus{
+    background-color: grey;
+}
